@@ -14,6 +14,6 @@ Survey of NLP papers
 
 # Approach
 
-# Experimental Result
+# Main Experimental Result
 
 ```
